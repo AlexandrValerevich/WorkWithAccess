@@ -1,0 +1,3 @@
+C:\Users\Александр\source\repos\WorkWithACCESS\WorkWithACCESS\Debug\WorkWithACCESS.vcxprojAssemblyReference.cache
+C:\Users\Александр\source\repos\WorkWithACCESS\WorkWithACCESS\Debug\WorkWithACCESS.MyForm.resources
+C:\Users\Александр\source\repos\WorkWithACCESS\WorkWithACCESS\Debug\WorkWithACCESS.vcxproj.GenerateResource.cache
